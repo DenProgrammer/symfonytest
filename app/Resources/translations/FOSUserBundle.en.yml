@@ -1,0 +1,13 @@
+security:
+    login:
+        username: Input Username
+        password: Input Password
+        remember_me: 'Remember my name'
+        submit: 'Log in'
+
+# Global strings
+layout:
+    logout: 'Log out'
+    login: 'Log in'
+    register: Register
+    logged_in_as: 'Logged in as %username%'
