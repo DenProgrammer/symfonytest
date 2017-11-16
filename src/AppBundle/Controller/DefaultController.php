@@ -26,9 +26,7 @@ class DefaultController extends Controller
     public function adminAction(Request $request)
     {
         $user = $this->getUser();
-        
-        var_dump($user);
-        
+
         // replace this example code with whatever you need
         return $this->render('AppBundle::admin.html.twig');
     }
